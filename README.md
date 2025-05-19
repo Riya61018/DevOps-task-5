@@ -2,7 +2,7 @@
 
 Tools Used: Minikube, kubectl, Docker
 
-Screenshots
+Screenshots:
 
 ![image](https://github.com/user-attachments/assets/1008f434-e742-4a87-b58c-c34964b14702)
  
